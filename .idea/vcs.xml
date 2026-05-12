@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/2d-game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/box2d" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libs/raylib" vcs="Git" />
   </component>
 </project>

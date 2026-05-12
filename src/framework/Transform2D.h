@@ -1,6 +1,7 @@
 //
 // Created by Alexander Buchkov on 1.04.26.
 //
+
 #pragma once
 
 #include "raylib.h"
